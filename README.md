@@ -1,4 +1,4 @@
-# murmur
+# pymurmur
 
 A simple Python library for access to a YAML formatted password file.
 It's a Python port of the go-murmur Go library.
